@@ -89,7 +89,3 @@ npm run develop
 ```
 
 To build the final, production ready static website:
-
-```
-
-
