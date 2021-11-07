@@ -75,5 +75,3 @@ To run this project locally, install the dependencies of this project:
 ```
 npm install
 ```
-
-Add an `.env` file containing the read-only API token of your DatoCMS site (set up with the demo button above):
