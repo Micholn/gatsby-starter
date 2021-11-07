@@ -80,6 +80,3 @@ Add an `.env` file containing the read-only API token of your DatoCMS site (set 
 
 ```
 echo 'DATO_API_TOKEN=abc123' >> .env
-```
-
-Then, to run this website in development mode (with live-reload):
