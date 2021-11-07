@@ -85,6 +85,3 @@ echo 'DATO_API_TOKEN=abc123' >> .env
 Then, to run this website in development mode (with live-reload):
 
 ```
-npm run develop
-```
-
