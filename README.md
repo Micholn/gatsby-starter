@@ -69,5 +69,3 @@ If you want to set up a live demo for yourself, just [sign up for a free DatoCMS
 [![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/deploy?repo=datocms/snipcart-gatsby-demo)
 
 ## Usage
-
-To run this project locally, install the dependencies of this project:
