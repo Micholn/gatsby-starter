@@ -88,4 +88,3 @@ Then, to run this website in development mode (with live-reload):
 npm run develop
 ```
 
-To build the final, production ready static website:
