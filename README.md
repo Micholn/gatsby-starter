@@ -71,7 +71,3 @@ If you want to set up a live demo for yourself, just [sign up for a free DatoCMS
 ## Usage
 
 To run this project locally, install the dependencies of this project:
-
-```
-npm install
-```
