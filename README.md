@@ -94,7 +94,3 @@ To build the final, production ready static website:
 npm run build
 ```
 
-The final result will be saved in the `public` directory.
-
-## Further demo options
-
