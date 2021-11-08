@@ -56,5 +56,3 @@ This is a demo project to get you started with a static ecommerce site powered b
 
 It's a brutalist socks ecommerce site, that looks like this:
 
-![Socks ecommerce screenshot](./preview.png)
-
