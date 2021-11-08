@@ -60,5 +60,3 @@ It's a brutalist socks ecommerce site, that looks like this:
 
 You can see how it looks live on this [demo installation](https://datocms-snipcart-gatsby-demo.netlify.com/).
 
-All the details on how this works on the [related blog post](https://www.datocms.com/blog/static-ecommerce-website-snipcart-gatsbyjs-datocms).
-
