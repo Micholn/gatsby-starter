@@ -58,5 +58,3 @@ It's a brutalist socks ecommerce site, that looks like this:
 
 ![Socks ecommerce screenshot](./preview.png)
 
-You can see how it looks live on this [demo installation](https://datocms-snipcart-gatsby-demo.netlify.com/).
-
