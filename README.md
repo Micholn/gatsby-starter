@@ -62,6 +62,3 @@ You can see how it looks live on this [demo installation](https://datocms-snipca
 
 All the details on how this works on the [related blog post](https://www.datocms.com/blog/static-ecommerce-website-snipcart-gatsbyjs-datocms).
 
-## Deploy on DatoCMS
-
-
