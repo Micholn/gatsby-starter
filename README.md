@@ -54,5 +54,3 @@ This project is also available as a demo on [Gatsby Cloud](https://www.gatsbyjs.
 
 This is a demo project to get you started with a static ecommerce site powered by [Gatsby](https://www.gatsbyjs.org/), [Snipcart](https://snipcart.com/) and [DatoCMS](https://www.datocms.com/).
 
-It's a brutalist socks ecommerce site, that looks like this:
-
